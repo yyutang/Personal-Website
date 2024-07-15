@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiences on </title>
+    <link>https://yu-ai-dev.github.io/experience/</link>
+    <description>Recent content in Experiences on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0100</lastBuildDate>
+    <atom:link href="https://yu-ai-dev.github.io/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal Website Project</title>
+      <link>https://yu-ai-dev.github.io/experience/personal_website/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0100</pubDate>
+      <guid>https://yu-ai-dev.github.io/experience/personal_website/</guid>
+      <description>Personal Website Project used Hugo framework. It based on Adritian Free Hugo Theme as a sample, then I edited it deeply to set up my first personal website.&#xA;Languages: YAML, HTML, CSS, JavaScript&#xA;Learning: The project is a really good way for me to practices javacript, html, css languages, and reviewed the knowledge of website building that I learned in my second year of university. Also my first time knew about Hugo framework and YAML language.</description>
+    </item>
+    <item>
+      <title>Traffic Sign Recognition Project</title>
+      <link>https://yu-ai-dev.github.io/experience/traffic_sign_recognition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yu-ai-dev.github.io/experience/traffic_sign_recognition/</guid>
+      <description>Traffic Sign Recognition Abstract: Traffic Sign Recognition is to recognize and identify the traffic signs in Canada. The project needs to deal with image processing (shape and color processing) and image recognition (text and symbol recognition). The project delivers two segmentation programs that find the road sign in the image by colors and contours. After segments, a matching program is performed to compute the similarity with the dataset and present final recognition result.</description>
+    </item>
+  </channel>
+</rss>
